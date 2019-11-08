@@ -1,4 +1,4 @@
-﻿namespace OOP2.Student.Teacher
+﻿namespace OOP.Student.Teacher
 {
     public class Teacher : Person
     {

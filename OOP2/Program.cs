@@ -1,7 +1,5 @@
-﻿namespace OOP2.Student.Teacher
+﻿namespace OOP.Student.Teacher
 {
-    using System.Collections.Generic;
-
     class Program
     {
         static void Main(string[] args)
@@ -30,20 +28,5 @@
         //{
         //    System.Console.WriteLine($"{p.Id} - {p.Name} - {p.GetType().FullName}");
         //}
-    }
-
-    public class PersonManager
-    {
-        private readonly List<Person> personList;
-
-        public PersonManager()
-        {
-            this.personList = new List<Person>();
-        }
-
-        public void Add(Person p)
-        {
-            this.personList.Add(p);
-        }
     }
 }

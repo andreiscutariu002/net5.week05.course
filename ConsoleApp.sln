@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Static.Hotel", "ConsoleApp\OOP.Static.Hotel.csproj", "{A711CC4D-3FCB-4696-9517-454FAF0547F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2.Student.Teacher", "OOP2\OOP2.Student.Teacher.csproj", "{35327EE7-8A61-47BA-8B7A-83BF012CDD9C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Student.Teacher", "OOP2\OOP.Student.Teacher.csproj", "{35327EE7-8A61-47BA-8B7A-83BF012CDD9C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2.Human.Worker.Students", "OOP2.Human.Worker.Students\OOP2.Human.Worker.Students.csproj", "{79AE2F65-9214-47A9-87D1-B1385BD6C59F}"
 EndProject

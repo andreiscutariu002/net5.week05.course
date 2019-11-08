@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{35327EE7-8A61-47BA-8B7A-83BF012CDD9C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OOP2.Student.Teacher</RootNamespace>
-    <AssemblyName>OOP2.Student.Teacher</AssemblyName>
+    <RootNamespace>OOP.Student.Teacher</RootNamespace>
+    <AssemblyName>OOP.Student.Teacher</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Director.cs" />
     <Compile Include="Person.cs" />
+    <Compile Include="PersonManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Student.cs" />
