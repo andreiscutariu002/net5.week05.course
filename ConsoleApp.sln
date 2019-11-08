@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.AbscractClasses", "OOP.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Employees.Ex", "OOP.Shapes.Ex\OOP.Employees.Ex.csproj", "{6EE8651C-BA05-4F22-8471-0DABBA32668F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.ShapesV2", "OOP.ShapesV2\OOP.ShapesV2.csproj", "{657FA1D0-9136-4AC0-8898-CC6D6F89D3B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{6EE8651C-BA05-4F22-8471-0DABBA32668F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EE8651C-BA05-4F22-8471-0DABBA32668F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EE8651C-BA05-4F22-8471-0DABBA32668F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657FA1D0-9136-4AC0-8898-CC6D6F89D3B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657FA1D0-9136-4AC0-8898-CC6D6F89D3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657FA1D0-9136-4AC0-8898-CC6D6F89D3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657FA1D0-9136-4AC0-8898-CC6D6F89D3B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
