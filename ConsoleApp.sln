@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Static.Hotel", "ConsoleApp\OOP.Static.Hotel.csproj", "{A711CC4D-3FCB-4696-9517-454FAF0547F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Static.Hotel", "OOP.Static.Hotel\OOP.Static.Hotel.csproj", "{A711CC4D-3FCB-4696-9517-454FAF0547F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Student.Teacher", "OOP2\OOP.Student.Teacher.csproj", "{35327EE7-8A61-47BA-8B7A-83BF012CDD9C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Student.Teacher", "OOP.Student.Teacher\OOP.Student.Teacher.csproj", "{35327EE7-8A61-47BA-8B7A-83BF012CDD9C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2.Human.Worker.Students", "OOP2.Human.Worker.Students\OOP2.Human.Worker.Students.csproj", "{79AE2F65-9214-47A9-87D1-B1385BD6C59F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces", "OOP.Iterfaces.AbstractClasses\OOP.Interfaces.csproj", "{F60DD506-9C2A-4B23-AADC-3D9031CB2F95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces", "OOP.Interfaces\OOP.Interfaces.csproj", "{F60DD506-9C2A-4B23-AADC-3D9031CB2F95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Shapes.AbscractClasses", "OOP.AbscractClasses\OOP.Shapes.AbscractClasses.csproj", "{469F1F1C-763A-4292-AF2A-E4BA478D05DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Shapes.AbscractClasses", "OOP.Shapes.AbscractClasses\OOP.Shapes.AbscractClasses.csproj", "{469F1F1C-763A-4292-AF2A-E4BA478D05DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2.Advanced.Employees.Ex", "OOP.Shapes.Ex\OOP2.Advanced.Employees.Ex.csproj", "{6EE8651C-BA05-4F22-8471-0DABBA32668F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2.Advanced.Employees.Ex", "OOP2.Advanced.Employees.Ex\OOP2.Advanced.Employees.Ex.csproj", "{6EE8651C-BA05-4F22-8471-0DABBA32668F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2.Shapes.Ex05.Home", "OOP.ShapesV2\OOP2.Shapes.Ex05.Home.csproj", "{657FA1D0-9136-4AC0-8898-CC6D6F89D3B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2.Shapes.Ex05.Home", "OOP2.Shapes.Ex05.Home\OOP2.Shapes.Ex05.Home.csproj", "{657FA1D0-9136-4AC0-8898-CC6D6F89D3B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
