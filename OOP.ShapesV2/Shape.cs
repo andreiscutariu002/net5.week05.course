@@ -1,4 +1,4 @@
-﻿namespace OOP.ShapesV2
+﻿namespace OOP.Shapes.Ex05.Home
 {
     abstract class Shape
     {
