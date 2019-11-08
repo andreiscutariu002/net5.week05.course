@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces", "OOP.Iterf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.AbscractClasses", "OOP.AbscractClasses\OOP.AbscractClasses.csproj", "{469F1F1C-763A-4292-AF2A-E4BA478D05DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Employees.Ex", "OOP.Shapes.Ex\OOP.Employees.Ex.csproj", "{6EE8651C-BA05-4F22-8471-0DABBA32668F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{469F1F1C-763A-4292-AF2A-E4BA478D05DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{469F1F1C-763A-4292-AF2A-E4BA478D05DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{469F1F1C-763A-4292-AF2A-E4BA478D05DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE8651C-BA05-4F22-8471-0DABBA32668F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE8651C-BA05-4F22-8471-0DABBA32668F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE8651C-BA05-4F22-8471-0DABBA32668F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE8651C-BA05-4F22-8471-0DABBA32668F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

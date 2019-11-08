@@ -21,9 +21,6 @@ namespace ConsoleApp
 
             HotelManager.PrintNrOfInstances();
             HotelManager.PrintNrOfInstances();
-
-            int y = HotelManager.NrInstances;
-            int x = HotelManager.NextHotelId;
         }
     }
 }
