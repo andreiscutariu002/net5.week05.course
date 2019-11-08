@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{469F1F1C-763A-4292-AF2A-E4BA478D05DA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OOP.AbscractClasses</RootNamespace>
-    <AssemblyName>OOP.AbscractClasses</AssemblyName>
+    <RootNamespace>OOP.AbstractClasses</RootNamespace>
+    <AssemblyName>OOP.AbstractClasses</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shape.cs" />
+    <Compile Include="Square.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

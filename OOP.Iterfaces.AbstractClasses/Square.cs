@@ -1,8 +1,8 @@
-﻿namespace OOP.Iterfaces.AbstractClasses
+﻿namespace OOP.Interfaces
 {
     public class Square : IShape, IPolygon
     {
-        int l;
+        private readonly int l;
 
         public Square(int l)
         {
@@ -29,7 +29,7 @@
 
         public double CalculateArea()
         {
-            return l * l;
+            return this.l * this.l;
         }
     }
 }

@@ -15,7 +15,7 @@
 
         public float MoneyPerHour()
         {
-            return WeekSalary / (WorkHoursPerDay * 5);
+            return this.WeekSalary / (this.WorkHoursPerDay * 5);
         }
     }
 }

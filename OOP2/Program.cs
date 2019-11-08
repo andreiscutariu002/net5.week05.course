@@ -24,7 +24,6 @@ namespace OOP2
 
             personManger.Add(s);
             personManger.Add(t);
-
         }
 
         //static void PrintPerson(Person p)
@@ -35,7 +34,7 @@ namespace OOP2
 
     public class PersonManager
     {
-        private List<Person> personList;
+        private readonly List<Person> personList;
 
         public PersonManager()
         {

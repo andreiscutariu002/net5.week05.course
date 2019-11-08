@@ -6,9 +6,8 @@
 
         public string Name { get; set; }
 
-        public void Methoda()
+        public void Method()
         {
-
         }
     }
 }

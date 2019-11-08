@@ -1,9 +1,9 @@
-﻿namespace OOP.Iterfaces.AbstractClasses
+﻿namespace OOP.Interfaces
 {
     public class Rectangle : IShape, IPolygon
     {
-        int lung;
-        int lat;
+        readonly int lung;
+        readonly int lat;
 
         public Rectangle(int lung, int lat)
         {
@@ -29,7 +29,7 @@
 
         public double CalculateArea()
         {
-            return lung * lat;
+            return this.lung * this.lat;
         }
     }
 }

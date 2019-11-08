@@ -5,7 +5,6 @@
         public Student(string firstName, string lastName)
             : base(firstName, lastName)
         {
-
         }
         
         public string Grade { get; set; }

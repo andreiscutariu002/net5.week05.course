@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -26,39 +24,6 @@ namespace ConsoleApp
 
             int y = HotelManager.NrInstances;
             int x = HotelManager.NextHotelId;
-        }
-    }
-
-    public class Hotel
-    {
-        public int Id { get; set; }
-
-        public string Name { get; set; }
-    }
-
-    public class HotelManager
-    {
-        public static int NrInstances = 0;
-        public static int NextHotelId = 0;
-
-        public HotelManager()
-        {
-            Hotels = new List<Hotel>();
-
-            NrInstances++;
-        }
-
-        public List<Hotel> Hotels { get; private set; }
-
-        public void AddHotel (Hotel h)
-        {
-            h.Id = ++NextHotelId;
-            Hotels.Add(h);
-        }
-
-        public static void PrintNrOfInstances()
-        {
-            Console.WriteLine($"Current nr of instances: {NrInstances}");
         }
     }
 }

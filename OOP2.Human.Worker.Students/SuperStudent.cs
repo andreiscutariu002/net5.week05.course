@@ -5,7 +5,6 @@
         public SuperStudent(string firstName, string lastName)
             : base(firstName, lastName)
         {
-
         }
     }
 }

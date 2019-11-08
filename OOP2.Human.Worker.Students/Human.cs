@@ -4,8 +4,8 @@
     {
         public Human(string firstName, string lastName)
         {
-            FirstName = firstName;
-            LastName = lastName;
+            this.FirstName = firstName;
+            this.LastName = lastName;
         }
 
         public string FirstName { get; set; }

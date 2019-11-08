@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace OOP.Iterfaces.AbstractClasses
+﻿namespace OOP.Interfaces
 {
     class Program
     {
@@ -13,7 +7,7 @@ namespace OOP.Iterfaces.AbstractClasses
             var manager = new ShapeManager();
 
             manager.Add(new Square(3));
-            manager.Add(new Cercle(3));
+            manager.Add(new Circle(3));
             manager.Add(new Square(4));
             manager.Add(new Rectangle(2, 4));
 

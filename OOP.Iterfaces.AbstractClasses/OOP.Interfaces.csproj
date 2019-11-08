@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F60DD506-9C2A-4B23-AADC-3D9031CB2F95}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OOP.Iterfaces.AbstractClasses</RootNamespace>
-    <AssemblyName>OOP.Iterfaces.AbstractClasses</AssemblyName>
+    <RootNamespace>OOP.Interfaces</RootNamespace>
+    <AssemblyName>OOP.Interfaces</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cercle.cs" />
+    <Compile Include="Circle.cs" />
     <Compile Include="IShape.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

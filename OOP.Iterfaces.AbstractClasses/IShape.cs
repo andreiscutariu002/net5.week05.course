@@ -1,7 +1,7 @@
-﻿using System.Collections.Generic;
-
-namespace OOP.Iterfaces.AbstractClasses
+﻿namespace OOP.Interfaces
 {
+    using System.Collections.Generic;
+
     public interface IShape
     {
         double CalculateArea();
@@ -20,12 +20,12 @@ namespace OOP.Iterfaces.AbstractClasses
 
         public ShapeManager()
         {
-            shapes = new List<IShape>();
+            this.shapes = new List<IShape>();
         }
 
         public void Add(IShape s)
         {
-            shapes.Add(s);
+            this.shapes.Add(s);
         }
 
         public void PrintAllAreas()
