@@ -1,7 +1,7 @@
-﻿using System.Collections.Generic;
-
-namespace OOP2
+﻿namespace OOP2.Student.Teacher
 {
+    using System.Collections.Generic;
+
     class Program
     {
         static void Main(string[] args)
@@ -38,12 +38,12 @@ namespace OOP2
 
         public PersonManager()
         {
-            personList = new List<Person>();
+            this.personList = new List<Person>();
         }
 
         public void Add(Person p)
         {
-            personList.Add(p);
+            this.personList.Add(p);
         }
     }
 }

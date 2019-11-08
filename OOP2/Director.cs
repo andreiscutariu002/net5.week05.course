@@ -1,4 +1,4 @@
-﻿namespace OOP2
+﻿namespace OOP2.Student.Teacher
 {
     public class Director : Person
     {
