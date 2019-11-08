@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp
+﻿namespace OOP.Static.Hotel
 {
     using System;
     using System.Collections.Generic;

@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp
+﻿namespace OOP.Static.Hotel
 {
     public class Hotel
     {

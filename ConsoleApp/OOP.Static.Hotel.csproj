@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6EE8651C-BA05-4F22-8471-0DABBA32668F}</ProjectGuid>
+    <ProjectGuid>{A711CC4D-3FCB-4696-9517-454FAF0547F0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OOP.Employees.Ex</RootNamespace>
-    <AssemblyName>OOP.Employees.Ex</AssemblyName>
+    <RootNamespace>OOP.Static.Hotel</RootNamespace>
+    <AssemblyName>OOP.Static.Hotel</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
+    <Compile Include="Hotel.cs" />
+    <Compile Include="HotelManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
