@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2.Advanced.Employees.Ex"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2.Shapes.Ex05.Home", "OOP2.Shapes.Ex05.Home\OOP2.Shapes.Ex05.Home.csproj", "{657FA1D0-9136-4AC0-8898-CC6D6F89D3B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2.Overloading", "OOP2.Overloading\OOP2.Overloading.csproj", "{31F7938C-D4B5-4F1B-A696-0F5B20F39E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2.OperatorsOverloading", "OOP2.OperatorsOverloading\OOP2.OperatorsOverloading.csproj", "{1103B85A-B028-47A3-B8B2-52C2A4875E00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{657FA1D0-9136-4AC0-8898-CC6D6F89D3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{657FA1D0-9136-4AC0-8898-CC6D6F89D3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{657FA1D0-9136-4AC0-8898-CC6D6F89D3B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F7938C-D4B5-4F1B-A696-0F5B20F39E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F7938C-D4B5-4F1B-A696-0F5B20F39E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F7938C-D4B5-4F1B-A696-0F5B20F39E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F7938C-D4B5-4F1B-A696-0F5B20F39E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1103B85A-B028-47A3-B8B2-52C2A4875E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1103B85A-B028-47A3-B8B2-52C2A4875E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1103B85A-B028-47A3-B8B2-52C2A4875E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1103B85A-B028-47A3-B8B2-52C2A4875E00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
