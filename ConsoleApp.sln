@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2.Overloading", "OOP2.Ov
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2.OperatorsOverloading", "OOP2.OperatorsOverloading\OOP2.OperatorsOverloading.csproj", "{1103B85A-B028-47A3-B8B2-52C2A4875E00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3.CarStore", "OOP3.CarStore\OOP3.CarStore.csproj", "{4414B594-D6EF-4538-9650-22507371C2A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1103B85A-B028-47A3-B8B2-52C2A4875E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1103B85A-B028-47A3-B8B2-52C2A4875E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1103B85A-B028-47A3-B8B2-52C2A4875E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4414B594-D6EF-4538-9650-22507371C2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4414B594-D6EF-4538-9650-22507371C2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4414B594-D6EF-4538-9650-22507371C2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4414B594-D6EF-4538-9650-22507371C2A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
